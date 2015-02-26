@@ -1,9 +1,7 @@
 .text-core {
-  position: relative;
 }
 .text-core .text-wrap {
   background: #fff;
-  position: absolute;
 }
 .text-core .text-wrap textarea,
 .text-core .text-wrap input {
@@ -16,7 +14,6 @@
   border: 1px solid #9daccc;
   outline: none;
   resize: none;
-  position: absolute;
   z-index: 1;
   background: none;
   overflow: hidden;
